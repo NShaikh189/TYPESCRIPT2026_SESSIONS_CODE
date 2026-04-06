@@ -24,6 +24,7 @@ abstract class Page extends WHO{
 }
 
 class LoginPage extends Page{
+    
     //WHO
     covidVaccination(): void {
         throw new Error("Method not implemented.");
